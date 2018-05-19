@@ -1,3 +1,4 @@
 name: svanheusden yekyll demo
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
